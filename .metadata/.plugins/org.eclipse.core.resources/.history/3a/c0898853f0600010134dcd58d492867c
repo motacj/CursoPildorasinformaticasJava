@@ -21,10 +21,9 @@ public class Manipula_cadena {
 		
 		String palabra1 = "Casa";
 		
-		String palabra2 = "CASA";
+		String palabra2 = "Casa1";
 		
 		System.out.println(palabra1.equals(palabra2));
-		System.out.println(palabra1.equalsIgnoreCase(palabra2));
 	}
 
 }

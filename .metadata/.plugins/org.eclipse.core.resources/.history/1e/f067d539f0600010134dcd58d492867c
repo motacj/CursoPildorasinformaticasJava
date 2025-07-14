@@ -16,15 +16,6 @@ public class Manipula_cadena {
 		
 		System.out.println(frase.substring(5, 15));
 		System.out.println(frase.substring(20));
-
-		System.out.println("===========================");
-		
-		String palabra1 = "Casa";
-		
-		String palabra2 = "CASA";
-		
-		System.out.println(palabra1.equals(palabra2));
-		System.out.println(palabra1.equalsIgnoreCase(palabra2));
 	}
 
 }
