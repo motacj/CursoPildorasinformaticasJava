@@ -1,0 +1,19 @@
+
+public class Concatenacion_String {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double salario = 1850.55;
+		
+		
+		final double CONVERSION_EURO = 1.2;
+		
+		System.out.println("El salario de Manuel es: " + salario*CONVERSION_EURO + "€");
+		System.out.println("El salario de Manuel es: " + salario/CONVERSION_EURO + "€");
+		
+		
+
+	}
+
+}

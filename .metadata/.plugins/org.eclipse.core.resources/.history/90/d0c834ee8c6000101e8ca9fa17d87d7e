@@ -1,0 +1,20 @@
+
+public class EclaracionDeVariables {
+
+	public static void main(String[] args) {
+		/*
+		 * Forma de definir los tipos de datos primitivos
+		 */
+		byte edadMaria,edadLuis;
+		
+		edadMaria = 17;
+		
+		System.out.println(edadMaria);
+		
+		edadLuis = 24;
+		
+		System.out.println(edadLuis);
+
+	}
+
+}

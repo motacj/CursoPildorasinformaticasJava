@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;EclaracionDeVariables&apos; to &apos;DeclaracionDeVariables&apos;&#x0D;&#x0A;- Original project: &apos;Video006_Declaracion_de_Variables&apos;&#x0D;&#x0A;- Original element: &apos;EclaracionDeVariables&apos;&#x0D;&#x0A;- Renamed element: &apos;DeclaracionDeVariables&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EclaracionDeVariables&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{EclaracionDeVariables.java[EclaracionDeVariables" matchStrategy="1" name="DeclaracionDeVariables" qualified="false" references="true" similarDeclarations="false" stamp="1752483322454" textual="false" version="1.0"/>
+</session>

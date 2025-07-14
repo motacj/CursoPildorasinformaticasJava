@@ -1,0 +1,19 @@
+
+public class DeclaracionDeVariables {
+
+	public static void main(String[] args) {
+		/*
+		 * Forma de definir los tipos de datos primitivos
+		 */
+		String nombre = new String("Ana");
+		byte edad = 27;
+		float salario = 1800.50f;
+		boolean carnet = true;
+		
+		System.out.println(nombre);
+		System.out.println(edad);
+		System.out.println(salario);
+		System.out.println(carnet);
+	}
+
+}

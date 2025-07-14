@@ -1,0 +1,16 @@
+
+public class Declaracion_de_Constante {
+
+	public static void main(String[] args) {
+
+		final float CONVERSION_EURO = 1.2f;
+		
+		/*
+		 * no podemos asiganrle un nuevo valor CONVERSION_EURO = 1.5f
+		 */
+		
+		System.out.println(CONVERSION_EURO);
+
+	}
+
+}
