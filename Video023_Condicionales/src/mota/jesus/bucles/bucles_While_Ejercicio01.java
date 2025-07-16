@@ -1,0 +1,10 @@
+package mota.jesus.bucles;
+
+public class bucles_While_Ejercicio01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
