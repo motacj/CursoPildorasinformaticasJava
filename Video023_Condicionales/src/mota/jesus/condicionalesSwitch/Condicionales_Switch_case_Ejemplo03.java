@@ -1,15 +1,15 @@
 package mota.jesus.condicionalesSwitch;
-/*
- * Java Tutorizado. Control de flujo. Condicional Switch. Novedades. Vídeo 28B
- */
 
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
+
 public class Condicionales_Switch_case_Ejemplo03 {
 
 	public static void main(String[] args) {
+		
+		JOptionPane.showMessageDialog(null, "Introduce un dia");
 		
 		Scanner entrada = new Scanner(System.in);
 
@@ -17,23 +17,17 @@ public class Condicionales_Switch_case_Ejemplo03 {
 		
 		String resultado = switch(diaSemana) {
 		
-		case "Lunes","Martes","Miercoles","Jueves","Viernes"->"Laborables";
-		
-		case "Sabado","Domingo"->"Festivo";
-		
-		default->{
+			case "Lunes","Martes","Miercoles","Jueves","Viernes"->"Laborables";
 			
-			System.out.println("Procesando la informacion introducida...");
-			yield "Dia no valido";
+			case "Sabado","Domingo"->"Festivo";
 			
-			}
-		}
-
-		};
+			default -> {
+				JOptionPane.showMessageDialog(null,"Procesando la información introducida...");
+                yield "Día no válido";
+            }
+        };
 		
-		System.out.println(resultado);
-		
-		
-	}
-
+        JOptionPane.showMessageDialog(null,resultado);
+        entrada.close();
+    }
 }

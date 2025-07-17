@@ -1,24 +1,5 @@
 INDEX VERSION 1.134+C:\Users\atoms\Downloads\CursoPildorasinformaticasJava\.metadata\.plugins\org.eclipse.jdt.core
-3684214246.index
-4101780756.index
-1690283972.index
-3148555753.index
-2361790854.index
-148319715.index
-3221976852.index
-4254737060.index
-3183840610.index
-2742267355.index
-248236967.index
-926656858.index
-815179254.index
 1865797976.index
-2801003277.index
-836427430.index
-2824866280.index
-2124434445.index
-1840732059.index
-1593163107.index
 2218029096.index
-3461714767.index
-3609287578.index
+4101780756.index
+815179254.index
