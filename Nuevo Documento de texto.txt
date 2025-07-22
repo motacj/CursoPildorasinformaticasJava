@@ -1,0 +1,9 @@
+git add .
+git status -s
+git commit -m "Primer commit"
+git remote add origin https://github.com/motacj/CursoPildorasinformaticasJava.git
+git push -u origin main
+
+
+
+git tag      # para ver versiones (releases etiquetadas)
