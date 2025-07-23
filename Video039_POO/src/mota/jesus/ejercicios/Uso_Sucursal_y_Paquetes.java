@@ -32,7 +32,7 @@ public class Uso_Sucursal_y_Paquetes {
 		
 		System.out.println(nuevaSucursal.getCiudad());
 		
-		System.out.println(numeroPaquetes +"\n");
+		System.out.println(numeroPaquetes);
 		
 		for (int i = 0; i < nuevoPaquete.length; i++) {
 			
@@ -44,7 +44,7 @@ public class Uso_Sucursal_y_Paquetes {
 			
 			System.out.println("La prioridad del paquete " + (i-1) + "es: " + nuevoPaquete[i].getPrioridad());
 			
-			System.out.println("El precio del paquete " + (i-1) + "es: " + nuevaSucursal.setCalculaPrecio(nuevoPaquete[i]) + "\n");
+			System.out.println("El precio del paquete " + (i-1) + "es: " + nuevaSucursal.setCalculaPrecio(nuevoPaquete[i]));
 		}
 				
 				

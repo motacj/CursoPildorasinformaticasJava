@@ -42,9 +42,8 @@ public class Paquete {
 	 * @return the prioridad
 	 */
 	public byte getPrioridad() {
-		return prioridad;
+		return this.prioridad;
 	}
-
 	/**
 	 * @param prioridad the prioridad to set
 	 */
