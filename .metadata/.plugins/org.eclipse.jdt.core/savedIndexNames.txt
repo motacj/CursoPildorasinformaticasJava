@@ -1,36 +1,25 @@
-<<<<<<< HEAD
 INDEX VERSION 1.134+C:\Users\atoms\Downloads\CursoPildorasinformaticasJava\.metadata\.plugins\org.eclipse.jdt.core
-797188681.index
+4101780756.index
+3993003349.index
+2486946799.index
+1139252763.index
+1839781163.index
+3727830301.index
+4123552870.index
+3200023673.index
+3256441711.index
 815179254.index
+1754121861.index
 1865797976.index
+519895366.index
 1262778758.index
 836427430.index
+3379661715.index
+4020571914.index
+1173805569.index
+1902465893.index
+1845232889.index
 2218029096.index
-4101780756.index
-=======
-INDEX VERSION 1.134+C:\Users\jmc095\Documents\GitHub\CursoPildorasinformaticasJava\.metadata\.plugins\org.eclipse.jdt.core
-1262778758.index
-640158368.index
-2218029096.index
+502213910.index
+393109312.index
 797188681.index
-815179254.index
-1865797976.index
-4120272815.index
-1512480041.index
-2068080903.index
-3437733065.index
-3446381434.index
-713217410.index
-732849940.index
-4101780756.index
-2568757724.index
-1826806781.index
-2149475815.index
-3535822081.index
-2218565504.index
-281593637.index
-1189762981.index
-1372530105.index
-1323990760.index
-1073870959.index
->>>>>>> f384b4d7711719efd031a8dbc6261b3eadbe4658

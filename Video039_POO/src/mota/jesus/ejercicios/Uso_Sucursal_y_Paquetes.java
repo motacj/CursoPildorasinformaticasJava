@@ -1,7 +1,5 @@
 package mota.jesus.ejercicios;
 
-import java.util.Iterator;
-
 import javax.swing.JOptionPane;
 
 public class Uso_Sucursal_y_Paquetes {
