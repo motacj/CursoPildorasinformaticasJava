@@ -7,4 +7,6 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="mota.jesus.POOII.Alumno"/>
     <fullyQualifiedTypeName name="mota.jesus.POOII.Colegio"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="mota.jesus.Herencia.CadenaHerencia.Clase4"/>
 </qualifiedTypeNameHistroy>
