@@ -34,7 +34,7 @@ public class UsoEmpleados {
 		
 		losEmpleados[3] = new Empleado("Ana",5300.5, 2025,1,30);
 		
-		losEmpleados[4] = Juan;	//principio de sustitucion. Como Jefe "ES-UN" Epleado puedo guardarlo  
+		losEmpleados[4] = Juan;	//principio de sustitucion. Como Jefe "ES-UN" Enpleado puedo guardarlo  
 								//en un array de la clase Empleado
 		losEmpleados[5] = new Jefe("Isabel", 8000, 2007,3,21);
 		
