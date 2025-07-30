@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="mota.jesus.ejercicios.cuentasCorrientes"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.event.SwingPropertyChangeSupport"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="mota.jesus.POOII.Alumno"/>
     <fullyQualifiedTypeName name="mota.jesus.POOII.Colegio"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
@@ -24,4 +23,7 @@
     <fullyQualifiedTypeName name="mota.jesus.abstraccion.ParaJefes"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="mota.jesus.abstraccion_y_interface.ParaTrabajadores"/>
+    <fullyQualifiedTypeName name="mota.jesus.Temporizador.Temporizador"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 </qualifiedTypeNameHistroy>
