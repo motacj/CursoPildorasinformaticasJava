@@ -10,4 +10,18 @@
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
     <fullyQualifiedTypeName name="mota.jesus.Herencia.CadenaHerencia.Clase4"/>
     <fullyQualifiedTypeName name="prueba.Clase03"/>
+    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT01.Vehiculo"/>
+    <fullyQualifiedTypeName name="mota.jesus.ejercicio.EmpleadoTiempoCompleto"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT02.EmpleadoPorHoras"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT02.EmpleadoTiempoCompleto"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT03.TrianguloCarton"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT03.TrianguloEquilatero"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT03.Cirulo"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT03.Cuadrado"/>
+    <fullyQualifiedTypeName name="mota.jesus.ChatGPT03.Rectangulo"/>
+    <fullyQualifiedTypeName name="mota.jesus.Herencia.ParaJefes"/>
+    <fullyQualifiedTypeName name="mota.jesus.abstraccion.ParaJefes"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="mota.jesus.abstraccion_y_interface.ParaTrabajadores"/>
 </qualifiedTypeNameHistroy>

@@ -2,7 +2,7 @@ package mota.jesus.Herencia;
 
 import java.util.GregorianCalendar;
 
-public class Empleado {
+public class Empleado implements Comparable{
 	
 	private String nombre;
 	
@@ -66,12 +66,26 @@ public class Empleado {
 
 	public String getDatosEmpleado() {
 				
-		return "El empleado " + this.nombre + " y tiene el ID " + this.Id  ;
+		return "El empleado " + this.nombre + " y tiene el ID " + this.Id +
+				" .Tiene un sueldo de " + this.getSueldo() + "€ y entro a trabajar en ";
 	}
 	
 	public static String getIdSiguiente() {
 
 		return "El Id del siguiente empleado sera: " + IdSiguiente;
+	}
+
+	@Override
+	public int compareTo(Object arg0) {
+		
+		Empleado otroEmpleado = (Empleado)arg0;
+		
+		if(this.sueldo < otroEmpleado.sueldo) return 1;
+		
+		if(this.sueldo > otroEmpleado.sueldo) return -1;
+		
+		return 0;
+		
 	}
 
 }

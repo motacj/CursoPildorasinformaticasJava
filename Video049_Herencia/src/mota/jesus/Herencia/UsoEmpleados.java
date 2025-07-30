@@ -1,5 +1,7 @@
 package mota.jesus.Herencia;
 
+import java.util.Arrays;
+
 public class UsoEmpleados {
 
 	public static void main(String[] args) {
@@ -20,7 +22,7 @@ public class UsoEmpleados {
 		System.out.println(Julia.getSueldo());
 	
 		 */
-		Jefe Juan = new Jefe("Juan",10300.5, 2024,5,15);
+		/*Jefe Juan = new Jefe("Juan",10300.5, 2024,5,15);
 		
 		Juan.setIncentivo(200);
 		
@@ -40,13 +42,13 @@ public class UsoEmpleados {
 		
 		Jefe Isabel = (Jefe)losEmpleados[5];
 		
-		Isabel.setIncentivo(500);
+		Isabel.setIncentivo(500);*/
 		
 		/**Empleado Patricia = new Jefe("Patricia", 2550, 2007, 5 ,6);//Casting implicito downcasting
 		
 		Jefe PatriciaSecretaria = (Jefe) Patricia;*/
 		
-		for (Empleado empleado : losEmpleados) {
+		/*for (Empleado empleado : losEmpleados) {
 			
 			System.out.print(empleado.getDatosEmpleado());
 			
@@ -54,7 +56,28 @@ public class UsoEmpleados {
 																					// a pesar de que tiene su propio metodo
 																					// lo realiza el interprete de JAVA			
 			
+		}*/
+		
+		Empleado[] losEmpleados = new Empleado[5];
+		
+		losEmpleados[0] = new Empleado("Antonio",2300.5, 2025,7,5);
+		
+		losEmpleados[1] = new Empleado("Carlos",5300.5, 2023,1,2);
+		
+		losEmpleados[2] = new Empleado("Maria",1300.5, 2021,3,15);
+		
+		losEmpleados[3] = new Empleado("Ana",5300.5, 2025,1,30);
+		
+		losEmpleados[4] = new Empleado("Miguel",4400.5, 2025,1,30);
+		
+		Arrays.sort(losEmpleados);//Definimos el metodo de la interface y ya nos ordena por el sueldo
+		
+		for (Empleado empleado : losEmpleados) {
+			
+			System.out.println(empleado.getDatosEmpleado());
+			
 		}
+		
 	}	
 
 }
