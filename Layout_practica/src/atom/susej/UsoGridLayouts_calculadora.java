@@ -8,7 +8,7 @@ import javax.swing.*;
 import javax.swing.plaf.FontUIResource;
 
 
-public class UsoGridLayouts {
+public class UsoGridLayouts_calculadora {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

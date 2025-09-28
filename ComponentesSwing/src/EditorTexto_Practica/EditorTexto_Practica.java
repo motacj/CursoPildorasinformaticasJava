@@ -121,14 +121,14 @@ class JpanelPrincipal extends JPanel {
 		// menu---------------------------
 		this.miJMenuItem = new JMenuItem(miJMenuItem);
 
-		if (miJMenu == "miFuente") {
+		if (miJMenu.equals("miFuente")) {
 
 			miFuente.add(this.miJMenuItem);
 
 			this.miJMenuItem.addActionListener(new StyledEditorKit.FontFamilyAction("Cambia Letra", miLetra));
 		}
 
-		else if (miJMenu == "miEstilo") {
+		else if (miJMenu.equals("miEstilo")) {
 
 			miEstilo.add(this.miJMenuItem);
 
@@ -141,7 +141,7 @@ class JpanelPrincipal extends JPanel {
 				this.miJMenuItem.addActionListener(new StyledEditorKit.ItalicAction());
 		}
 
-		else if (miJMenu == "miTamanho") {
+		else if (miJMenu.equals("miTamanho")) {
 
 			miTamanho.add(this.miJMenuItem);
 
